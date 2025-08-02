@@ -27,17 +27,29 @@
 
 Snack-Squad/
 │
+
 ├── app/
+
 │ ├── src/
+
 │ │ ├── main/
+
 │ │ │ ├── java/com/example/snackordering/
+
 │ │ │ │ ├── LoginActivity.kt
+
 │ │ │ │ ├── MainPage.kt
+
 │ │ │ │ ├── TargetActivity.kt
+
 │ │ │ │ └── OrderDatabaseHelper.kt
+
 │ │ │ └── res/
+
 │ │ │ ├── drawable/
+
 │ │ │ ├── layout/
+
 │ │ │ └── values/
 
 ## 🚀 Getting Started
